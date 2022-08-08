@@ -28,3 +28,18 @@ a{
 nav > h1{
     padding: 20px;
 }
+
+
+.About{
+    border: 1px solid;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.Work{
+    border: 1px solid;
+    padding: 20px;
+}
+.Resume{
+    border: 1px solid;
+    padding: 20px;
+}

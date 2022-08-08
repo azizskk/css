@@ -31,5 +31,15 @@ nav > h1{
 
 label{
     color: #e56b6f;
+    display: inline-block;
+    width: 80px;
+    margin: 10px;
 
+}
+.Contact-Form{
+
+}
+
+input{
+    margin-right: 20px;
 }
